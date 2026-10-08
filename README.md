@@ -1,5 +1,5 @@
 # Xiaomi-BE6500-Downgrade-Firmware
- 小米路由器BE6500 固件降级1.0.64>>1.0.43
+ 小米路由器BE6500,型号rn02, 固件降级1.0.64>>1.0.43
  参考https://www.right.com.cn/forum/thread-8459209-1-1.html
  
 小米路由器BE6500 v1.0.64已无法通过xmir打开ssh，请勿升级
